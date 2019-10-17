@@ -1,5 +1,11 @@
-# Herzlich Willkommen auf meiner Homepage!
+# Herzlich Willkommen auf meiner GitHub Startseite!
 
-## Neue Paper:
+![Porsche](blog/02.jpg)
+
+# 
+# 
+# 
+
+## Aktuelle Themen:
 
 [Der Wandel in der Automobilbranche und die Treiber der Veränderung](blog/paper01.md)

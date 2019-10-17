@@ -1,6 +1,6 @@
 # Der Wandel in der Automobilbranche und die Treiber der Veränderung
 
-![Veränderung](01.jpg)
+![Autobahnkreuz](blog/01.jpg)
 
 ## Einleitung
 
