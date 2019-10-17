@@ -2,9 +2,7 @@
 ###### © Dr. phil. Manfred Hinrich (1926 - 2015)
 
 
-
-![Porsche](02.jpg)
-
+![Mythos Porsche 911](02.jpg)
 
 
 ## Aktueller Beitrag:
