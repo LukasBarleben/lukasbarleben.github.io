@@ -5,7 +5,7 @@
 
 
 ## „NICHTS IST SO BESTÄNDIG WIE DER WANDEL“ 
-Heraklit von Ephesus (etwa 540 – 480 n. Chr.)
+#### Heraklit von Ephesus (etwa 540 – 480 n. Chr.)
 
 
 # 1. Einleitung
