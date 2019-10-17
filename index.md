@@ -1,6 +1,6 @@
-# Herzlich Willkommen auf meiner GitHub Startseite!
+# 
 
-![Porsche](blog/02.jpg)
+![Porsche](02.jpg)
 
 # 
 # 
