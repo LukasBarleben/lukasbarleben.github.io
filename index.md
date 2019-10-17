@@ -2,6 +2,8 @@
 
 ![Veränderung](01.jpg)
 
+[abc](blog/abc.md)
+
 ## Einleitung
 Einer der wichtigsten Wirtschaftszweige in Deutschland ist zurzeit von einem grundlegenden Wandel betroffen: Die Automobilbranche. Handelskonflikte, der Abschied vom Verbrennungsmotor, eine schwächelnde Nachfrage an Neufahrzeugen sowie neue Mobilitätskonzepte sind nur einige Treiber der Veränderung und setzen mit einem schwachen Umsatzwachstum die gesamte Branche unter Druck. Dabei spielt das Thema Mobilität in unserer Gesellschaft weltweit eine ganz zentrale Rolle. Jeder Einzelne legt täglich zahlreiche Kilometer zurück. 
 ### Problemstellung
