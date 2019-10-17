@@ -1,9 +1,11 @@
 # Der Wandel in der Automobilbranche und die Treiber der Veränderung
 
+
 ![Autobahnkreuz](01.jpg)
 
-# „NICHTS IST SO BESTÄNDIG WIE DER WANDEL“ 
-### Heraklit von Ephesus (etwa 540 – 480 n. Chr.)
+
+## „NICHTS IST SO BESTÄNDIG WIE DER WANDEL“ 
+Heraklit von Ephesus (etwa 540 – 480 n. Chr.)
 
 
 # 1. Einleitung
@@ -15,13 +17,15 @@ Einer der wichtigsten Wirtschaftszweige in Deutschland ist zurzeit von einem gru
 
 Der Umstieg auf die Elektromobilität stellt mehr als nur einen Technologiewechsel dar. Vielmehr müssen die gesamte Wertschöpfungskette sowie das Geschäftsmodell überdacht werden. Das Vertrauen in die deutsche Automobilindustrie sinkt. (Statista, 2019, S. 118) Roland Berger-Partner Jan-Philipp Hasenberg (2016, S. 3) warnt: "OEMs drohen so den Anschluss zu ihrer direkten Zielgruppe zu verlieren.“ Die Hersteller und Händler sind nun gefragt auf die Veränderung der Rahmenbedingungen zu reagieren, um die Position am Markt nicht zu verlieren.
 
+
 ## 1.2.	Zielsetzung
 
 Für den Wandel vom klassischen Automobilhersteller hin zu einem Anbieter mit einem ganzheitlichen Mobilitätskonzept kommen verschiedene Maßnahmen in Frage. 
 Dabei steht die folgende Kernfrage im Fokus dieser Arbeit:  
-## Welche Maßnahmen müssen Hersteller in der Automobilbranche an ihrem Geschäftsmodell ergreifen, um die Beziehung zum Kunden trotz Krise zu stärken? 
+#### Welche Maßnahmen müssen Hersteller in der Automobilbranche an ihrem Geschäftsmodell ergreifen, um die Beziehung zum Kunden trotz Krise zu stärken? 
 
 Um diese Frage beantworten zu können, soll im ersten Schritt die Sichtweise des Kunden auf dieses Thema betrachtet werden. Danach wird ein Modell der Beratungsgesellschaft Ernst & Young (EY) zur Entwicklung eines neuen Geschäftsmodells anhand von fünf Schritten vorgestellt. Mit dem Fazit endet das Paper.
+
 
 # 2.	Der Kunde
 
@@ -36,6 +40,7 @@ Damit Kunden ihr Mindset ändern, fordert Roland Berger eine neue Servicekultur 
 # 3.	Die Automobilindustrie 
 
 Bei der Analyse der Automobilindustrie wird zunächst die Position der Automobilbranche in Deutschland anhand von Wachstumszahlen eingeordnet. Danach wird näher auf den Wandel in dieser Branche eingegangen. In Folge dessen werden die Anforderungen an das neue Geschäftsmodell beispielhaft skizziert.
+
 
 ## 3.1.	Deutschlands stärkster Wachstumstreiber?
 
@@ -60,22 +65,25 @@ Mit ihrer Studie zur „Zukunft des Automobilhandels“ stellt EY ein Modell auf
 Zentraler Baustein in der Digitalisierung des Automobilhandels sind die fünf Säulen im Veränderungsprozess.
 
 
-
 ### 1.	Vertrauen schaffen zur Aufrechterhaltung der Kundenbindung
 
 Umfragen ergaben, dass 72% der Verbraucher der Meinung sind, dass ein verbesserter Kaufprozess sie dazu motivieren würde, häufiger den Autohändler zu besuchen. Der Aufbau einer passenden Markenstrategie ist der zentrale Baustein, um das Kundenerlebnis zu steigern. Dabei ist der Aufbau von Vertrauen wichtig, um eine Bindung des Kunden an den Händler zu erreichen. Diese Kundenloyalität führt langfristig zu höheren Gewinnmargen im Sales und After Sales. (EY, 2015, S. 5)
+
 
 ### 2.	Mehrwert entsprechend der Mobilitätspräferenzen schaffen 
 
 Bereits heute halten 25% der Teilnehmer einer Umfrage, den Autobesitz für unwichtig und sind bereit, auf die Nutzung alternativer Mobilitätsdienste umzusteigen. Die Aufgabe der Hersteller besteht darin, ein Angebot zu schaffen, das dem Kunden die individuelle Zusammenstellung von Mobilitätspaketen ermöglicht. Dies umfasst sowohl den Kauf eines Fahrzeugs als auch den Zugang zu mehreren Fahrzeugen und anderen Verkehrsmitteln. 
 
+
 ### 3.	Schaffung einer digitalen Erlebnisplattform
 
 Zurzeit präferiert ein Großteil der Kunden den Fahrzeugkauf über den Offline-Kanal. Der Start des Kaufprozesses beginnt jedoch heute bereits online. Dazu verbringt der Automobilkunde im Durchschnitt 10 Stunden im Internet, um nach Informationen zu suchen und zu entscheiden, wann und wo er kaufen wird. Grundlage ist dabei eine umfassende Digitalstrategie, die ebenfalls Vertrauen schafft. Kundenanalysen helfen, die Leistungen im Vertrieb, dem Marketing und dem Kundenservice zu erweitern. (EY, 2015, S.7)
 
+
 ### 4.	Neugestaltung der Vertriebsnetze zur Verbesserung der Flexibilität 
 
 Vor einem Fahrzeugkauf informieren sich 80% der Kunden über mehrere Kanäle. Der Händler wird daher weiterhin als persönlicher Ansprechpartner eine wichtige Rolle bei der Kundenbetreuung spielen. Flexibilität des Kunden steht bei der Neugestaltung der Vertriebsstruktur im Vordergrund. Das neue Vertriebsmodell muss die Marke, Modelle und Kundenerwartungen integrieren und zeichnet sich durch physische und digitale Präsenz aus. Das Ziel ist eine enge Zusammenarbeit mit den Kunden. (EY, 2015, S. 8)
+
 
 ### 5.	Nahtloses Markenerlebnis durch eine Omni-Channel-Strategie
 
