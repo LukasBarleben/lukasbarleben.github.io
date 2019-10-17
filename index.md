@@ -1,4 +1,5 @@
-
+# "Das Kind im Manne hat vier Räder."
+###### © Dr. phil. Manfred Hinrich (1926 - 2015)
 
 
 
