@@ -12,7 +12,6 @@
 
 ___
 
-[Impressum](blog/impressum.md)
+[Impressum](blog/impressum.md)  -  [Datenschutz](blog/dataprivacy.md)
 
-[Datenschutz](blog/dataprivacy.md)
 
