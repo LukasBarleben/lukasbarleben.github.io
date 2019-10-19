@@ -12,4 +12,7 @@
 
 ___
 
+[Impressum](blog/impressum.md)
+
 [Data privacy](blog/dataprivacy.md)
+
