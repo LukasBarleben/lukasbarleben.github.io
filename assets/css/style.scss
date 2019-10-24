@@ -2,10 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-@import url("https://fonts.googleapis.com/css?family=Jomolhari&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Source+Serif+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
 
 body {
-  font-family: "Jomolhari", serif;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 h1,
@@ -14,6 +15,6 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Jomolhari", serif;
+  font-family: "Source Serif Pro", serif;
   color: #000080;
 }
