@@ -12,7 +12,8 @@
    1.1. Problemstellung
    1.2. Zielsetzung
 2. Der Kunde
-3. Die Automobilindustrie  
+3. Die Automobilindustrie
+   3.1. Deutschlands stärkster Wachstumstreiber?
    3.2. Veränderungen in der Automobilbranche
    3.3. Neue Geschäftsmodelle
 4. Fazit und Ausblick
@@ -31,7 +32,7 @@ Der Umstieg auf die Elektromobilität stellt mehr als nur einen Technologiewechs
 Für den Wandel vom klassischen Automobilhersteller hin zu einem Anbieter mit einem ganzheitlichen Mobilitätskonzept kommen verschiedene Maßnahmen in Frage.
 Dabei steht die folgende Kernfrage im Fokus dieser Arbeit:
 
-#### Welche Maßnahmen müssen Hersteller in der Automobilbranche an ihrem Geschäftsmodell ergreifen, um die Beziehung zum Kunden trotz Krise zu stärken?
+Welche Maßnahmen müssen Hersteller in der Automobilbranche an ihrem Geschäftsmodell ergreifen, um die Beziehung zum Kunden trotz Krise zu stärken?
 
 Um diese Frage beantworten zu können, soll im ersten Schritt die Sichtweise des Kunden auf dieses Thema betrachtet werden. Danach wird ein Modell der Beratungsgesellschaft Ernst & Young (EY) zur Entwicklung eines neuen Geschäftsmodells anhand von fünf Schritten vorgestellt. Mit dem Fazit endet das Paper.
 
