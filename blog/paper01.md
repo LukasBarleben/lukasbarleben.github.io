@@ -9,15 +9,24 @@
 # Inhaltsverzeichnis
 
 1. Einleitung
-   1.1. Problemstellung
-   1.2. Zielsetzung
+
+1.1. Problemstellung
+
+1.2. Zielsetzung
+
 2. Der Kunde
+
 3. Die Automobilindustrie
-   3.1. Deutschlands stärkster Wachstumstreiber?
-   3.2. Veränderungen in der Automobilbranche
-   3.3. Neue Geschäftsmodelle
+
+3.1. Deutschlands stärkster Wachstumstreiber?
+
+3.2. Veränderungen in der Automobilbranche
+
+3.3. Neue Geschäftsmodelle
+
 4. Fazit und Ausblick
-   Referenzen
+
+Referenzen
 
 # 1. Einleitung
 

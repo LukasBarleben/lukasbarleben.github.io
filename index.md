@@ -6,8 +6,6 @@
     alt="mythos porsche 911"
     style="float: middle; margin-right: 10px;" />
 
-[Hier ist mein Professor](https://ulrich-anders.eu/)
-
 ## Aktueller Beitrag:
 
 [Der Wandel in der Automobilbranche und die Treiber der Veränderung](blog/paper01.md)
