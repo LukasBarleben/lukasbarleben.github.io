@@ -1,6 +1,6 @@
 # "Das Kind im Manne hat vier Räder."
 
-###### © Dr. phil. Manfred Hinrich (1926 - 2015)
+© Dr. phil. Manfred Hinrich (1926 - 2015)
 
 <img src="blog/02.jpg"
     alt="mythos porsche 911"
