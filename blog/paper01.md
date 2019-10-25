@@ -4,9 +4,10 @@
 
 ## „NICHTS IST SO BESTÄNDIG WIE DER WANDEL“
 
-#### Heraklit von Ephesus (etwa 540 – 480 n. Chr.)
+Heraklit von Ephesus (etwa 540 – 480 n. Chr.)
 
-- [Inhaltsverzeichnis](#inhaltsverzeichnis)
+# Inhaltsverzeichnis
+
 - [1. Einleitung](#1-einleitung)
   - [1.1. Problemstellung](#11-problemstellung)
   - [1.2. Zielsetzung](#12-zielsetzung)
@@ -21,7 +22,7 @@
     - [4. Neugestaltung der Vertriebsnetze zur Verbesserung der Flexibilität](#4-neugestaltung-der-vertriebsnetze-zur-verbesserung-der-flexibilitat)
     - [5. Nahtloses Markenerlebnis durch eine Omni-Channel-Strategie](#5-nahtloses-markenerlebnis-durch-eine-omni-channel-strategie)
 - [4. Fazit und Ausblick](#4-fazit-und-ausblick)
-  - [Referenzen](#referenzen)
+- [Referenzen](#referenzen)
 
 # 1. Einleitung
 
